@@ -50,3 +50,7 @@ jupyter notebook freight_pricing.ipynb
 
 ## Stack
 Python · XGBoost · pandas · scikit-learn · matplotlib
+
+![Daily quote over time](daily_quote.PNG)
+![Rolling vs Naive MAE](rolling_vs_naive.PNG)
+![Feature importance](feature_importance.PNG)
